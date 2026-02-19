@@ -16,5 +16,9 @@ flowchart TD
     O -->|feed| P[Anime food]
     O -->|feed| Q[3d food]
     O -->|feed| R[Diet Lifestile]
+    A -->|Administrate| S{Histories}
+    T -->|feed| U[Based on true]
+    T -->|feed| V[Novel]
+    T -->|feed| V[Cartoon kids]
 ```
   
