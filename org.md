@@ -12,5 +12,9 @@ flowchart TD
     K -->|feed| L[The fucker]
     K -->|feed| M[Pretty lady]
     K -->|feed| N[Mafious Peaky Blinder]
+    A -->|Administrate| O{Food}
+    O -->|feed| P[Anime food]
+    O -->|feed| Q[3d food]
+    O -->|feed| R[Diet Lifestile]
 ```
   
