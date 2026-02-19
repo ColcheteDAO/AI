@@ -8,5 +8,9 @@ flowchart TD
     G -->|feed| H[Jesus]
     G -->|feed| I[Biblic]
     G -->|feed| J[Motivational]
+    A -->|Administrate| K{Persona}
+    K -->|feed| L[The fucker]
+    K -->|feed| M[Pretty lady]
+    K -->|feed| N[Mafious Beak Blinder]
 ```
   
