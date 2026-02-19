@@ -11,6 +11,6 @@ flowchart TD
     A -->|Administrate| K{Persona}
     K -->|feed| L[The fucker]
     K -->|feed| M[Pretty lady]
-    K -->|feed| N[Mafious Beak Blinder]
+    K -->|feed| N[Mafious Peaky Blinder]
 ```
   
