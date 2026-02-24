@@ -2,7 +2,7 @@
 flowchart TD
     A[The AI company] -->|Administrate| C{Brainroot}
     C -->|feed| D[Gugugaga]
-    C -->|feed| E[Brainroots]
+    C -->|feed| E[<a href='http://google.com' style="text-decoration: none; color: black">Brainroots</a>]
     C -->|feed| F[Meowl]
     A -->|Administrate| G{Religion}
     G -->|feed| H[Jesus]
