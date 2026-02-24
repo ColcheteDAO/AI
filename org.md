@@ -2,7 +2,7 @@
 flowchart TD
     A[The AI company] -->|Administrate| C{Brainroot}
     C -->|feed| D[Gugugaga]
-    C -->|feed| E[<a href="https://github.com/ColcheteDAO/AI/brainroots.md" style="text-decoration: none !important; color: white !important;">Brainroots</a>]
+    C -->|feed| E[<a href="https://github.com/ColcheteDAO/AI/blob/main/brainrots.md" style="text-decoration: none !important; color: white !important;">Brainroots</a>]
     C -->|feed| F[Meowl]
     A -->|Administrate| G{Religion}
     G -->|feed| H[Jesus]
