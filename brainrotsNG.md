@@ -1,4 +1,6 @@
 ### Tralalero tralala
+[workflow](https://github.com/ColcheteDAO/AI/blob/main/tralalero-50.json)  
+  
 <img width="300" height="300" alt="image" src="https://raw.githubusercontent.com/ColcheteDAO/AI/main/tralalero11.png" />  
 
   
